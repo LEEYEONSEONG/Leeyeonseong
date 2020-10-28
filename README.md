@@ -8,8 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEYEONSEONG)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub message](https://img.shields.io/badge/label-message--v0.1-blue?style=flat&logo=facebook)]
-(https://github.com/JeonSeungWoo/GitMenual/releases)
 
+https://img.shields.io/github/languages/top/beygee/survive
 <!--
 **LEEYEONSEONG/Leeyeonseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
