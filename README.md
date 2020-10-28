@@ -5,7 +5,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dustjd1535@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bae.200.ok/)](https://www.instagram.com/yeonseonglee_/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bmh8993.github.io/)](https://github.com/LEEYEONSEONG)
+[![Tech Blog Badge](http://img.shields.io/badge/-Velog-green?style=flat-square&logo=github&link=https://bmh8993.github.io/)](https://github.com/LEEYEONSEONG)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEYEONSEONG)](https://github.com/anuraghazra/github-readme-stats)
 
