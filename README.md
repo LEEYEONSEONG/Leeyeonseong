@@ -4,6 +4,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dustjd1535@gmail.com)
+[![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=About.me&labelColor=white)](https://velog.io/@dustjd1535) [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=instagram&labelColor=white)](https://www.instagram.com/yeonseonglee_/) [![Generic badge]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEYEONSEONG)](https://github.com/anuraghazra/github-readme-stats)
 
