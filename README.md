@@ -1,6 +1,6 @@
 ### Hi  👋
- <h5>안녕하세요! <br/>
- 프론트 엔드 개발자 이 연 성 입니다 :D</h5>
+ <h4>안녕하세요! <br/>
+ 프론트 엔드 개발자 이 연 성 입니다 :D</h4>
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dustjd1535@gmail.com)
