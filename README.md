@@ -8,6 +8,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog-green?style=flat-square&logo=velog&link=https://bmh8993.github.io/)](https://github.com/LEEYEONSEONG)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEYEONSEONG)](https://github.com/LEEYEONSEONG/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LEEYEONSEONG)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **LEEYEONSEONG/Leeyeonseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
