@@ -1,6 +1,6 @@
-### Hi  👋
- <h4>안녕하세요! <br/>
- 프론트 엔드 개발자 이 연 성 입니다 :D</h4>
+### Yeonseong Lee
+ <h4>Hi. This is Yeonseong <br/>
+ I'm Front-End Developoer :D</h4>
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dustjd1535@gmail.com)
@@ -8,7 +8,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog-green?style=flat-square&logo=velog&link=https://bmh8993.github.io/)](https://github.com/LEEYEONSEONG)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEYEONSEONG)](https://github.com/LEEYEONSEONG/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LEEYEONSEONG)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **LEEYEONSEONG/Leeyeonseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
