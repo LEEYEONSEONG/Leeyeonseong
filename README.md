@@ -1,6 +1,6 @@
 ### Yeonseong Lee
- <h4>Hi. This is Yeonseong <br/>
- I'm Front-End Developoer :D</h4>
+ <h4>Hi. This is Yeonseong </h4> <br/>
+ I'm Front-End Developoer :D
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dustjd1535@gmail.com)
