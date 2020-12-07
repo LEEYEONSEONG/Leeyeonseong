@@ -1,4 +1,5 @@
-### Yeonseong Lee
+### Yeonseong Lee 👋
+<hr/>
  Hi. This is Yeonseong <br/>
  I'm Front-End Developoer :D
 
