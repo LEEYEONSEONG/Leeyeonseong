@@ -1,17 +1,16 @@
 ### Yeonseong Lee 👋
-<hr/>
+
  <strong>Hi. This is Yeonseong</strong> <br/>
  I'm Front-End Developoer :D
  
- ---
  <h1>SKILL</h1>
- - Javascript (ES6+)
- - HTML5 & CSS
- - React.js
- - Redux
- - Sass, Styled Component
- - Git & Github & GitLab
- - Scrum
+ - Javascript (ES6+)<br/>
+ - HTML5 & CSS<br/>
+ - React.js<br/>
+ - Redux<br/>
+ - Sass, Styled Component<br/>
+ - Git & Github & GitLab<br/>
+ - Scrum<br/>
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dustjd1535@gmail.com)
