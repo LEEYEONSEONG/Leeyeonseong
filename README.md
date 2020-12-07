@@ -13,6 +13,7 @@
  - Scrum<br/>
 <br/>
 <br/>
+<h1>Contact Me</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dustjd1535@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bae.200.ok/)](https://www.instagram.com/yeonseonglee_/)
