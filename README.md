@@ -13,7 +13,6 @@
  - Scrum<br/>
 
 <h1>Contact Me</h1>
- 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dustjd1535@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog-green?style=flat-square&logo=velog&link=https://bmh8993.github.io/)](https://github.com/LEEYEONSEONG)
