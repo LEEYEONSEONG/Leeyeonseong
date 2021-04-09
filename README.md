@@ -5,6 +5,7 @@
  
  <h1>SKILL</h1>
  - Javascript (ES6+)<br/>
+ - Typescript
  - HTML5 & CSS<br/>
  - React.js<br/>
  - Redux<br/>
