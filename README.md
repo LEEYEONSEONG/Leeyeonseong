@@ -8,7 +8,8 @@
  - Typescript <br/>
  - HTML5 & CSS<br/>
  - React.js<br/>
- - Redux<br/>
+ - Next js
+ - Redux , saga , recoil, react qeury<br/>
  - Sass, Styled Component<br/>
  - Git & Github & GitLab<br/>
  - Scrum<br/>
