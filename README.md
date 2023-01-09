@@ -3,7 +3,7 @@
  <strong>Hi. This is Yeonseong</strong> <br/>
  I'm Front-End Developoer :D
  
- <h1>SKILL</h1>
+<!--  <h1>SKILL</h1>
  - Javascript (ES6+)<br/>
  - Typescript <br/>
  - HTML5 & CSS<br/>
@@ -13,7 +13,7 @@
  - Sass, Styled Component<br/>
  - Git & Github & GitLab<br/>
  - Scrum<br/>
-
+ -->
 <h1>Contact Me</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dustjd1535@gmail.com)
