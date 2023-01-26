@@ -6,7 +6,7 @@
  
  ### <h1> Skills </h1>
   - Javascript, Typescript, HTML5 & css
-  - React, React Native, Redux, React Query, Recoil, Sass, styled component
+  - React, React Native, Redux, React Query, Recoil, styled component
   - Web RTC, Web Socket..
 <!--  <h1>SKILL</h1>
  - Javascript (ES6+)<br/>
