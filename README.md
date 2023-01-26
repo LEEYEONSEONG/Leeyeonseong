@@ -3,6 +3,11 @@
  <strong>Hi. This is Yeonseong</strong> <br/>
  I'm Front-End Developoer :D
  
+ 
+ ### <h1> Skills </h1>
+  - Javascript, Typescript, HTML5 & css
+  - React, React Native, Redux, React Query, Recoil, Sass, styled component
+  - Web RTC, Web Socket, Agora
 <!--  <h1>SKILL</h1>
  - Javascript (ES6+)<br/>
  - Typescript <br/>
