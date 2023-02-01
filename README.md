@@ -11,6 +11,6 @@
 <h1>Contact Me</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dustjd1535@gmail.com)
-<a href="[http://melonicedlatte.com/](https://leeyeonseong.github.io/)">
+<a href="https://leeyeonseong.github.io/">
 <img src="https://img.shields.io/badge/Tech Blog-black?style=flat&logo=Git&logoColor=181717"/>
 <a>
