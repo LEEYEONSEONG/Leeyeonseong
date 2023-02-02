@@ -6,7 +6,7 @@
  
  ### <h1> Skills </h1>
   - Javascript, Typescript, HTML5 & css
-  - React, React Native, Redux, React Query, Recoil, styled component, Web RTC, Web Socket
+  - React, React Native, Redux, Redux-saga, React Query, Recoil, styled component, Web RTC, Web Socket
 
 <h1>Contact Me</h1>
 
