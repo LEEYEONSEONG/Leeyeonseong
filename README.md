@@ -8,7 +8,7 @@
   - Javascript, Typescript, HTML5 & css
   - React, Next, React Native, Redux, Redux-saga, React-query, Recoil, styled-components, WebRTC, WebSocket
 
-<h1>Contact Me</h1>
+<h1>Contact Me !</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dustjd1535@gmail.com)
 <a href="https://leeyeonseong.github.io/">
