@@ -7,7 +7,7 @@
  ### <h1> Skills </h1>
   - Javascript, Typescript, HTML5 & css
   - React, NextJS, React Native, redux, redux-saga, react-query, Recoil, styled-components, WebRTC, WebSocket
-  - Jira, Slack, Notion, Metermost, Trello
+  - Jira, Slack, Notion
 
 
 <br/>
