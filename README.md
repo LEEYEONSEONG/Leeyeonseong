@@ -5,7 +5,7 @@
  
  
  ### <h1> Skills </h1>
-  - Javascript, Typescript, HTML5 & css
+  - Javascript, Typescript, HTML & css
   - React, NextJS, React Native, redux, redux-saga, react-query, recoil, styled-components, WebRTC, WebSocket
 
 <br/>
