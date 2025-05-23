@@ -1,20 +1,24 @@
-### <h1> Hi!, there 👋</h1>
+## <strong> Hi!, there 👋</strong>
 
  <strong>Hi. This is Yeonseong</strong> <br/>
  I'm Front-End Developer :D
  
  
- ### <h1> Skills </h1>
+ ## <strong> Skills </strong>
   - Javascript, Typescript, HTML & css
-  - React, NextJS, React Native, redux, redux-saga, react-query, recoil, styled-components, WebRTC, WebSocket
+  - React, NextJS, React Native, Redux, redux-saga, tanstack/Query, Recoil, Styled-components, WebRTC, WebSocket
+  - Django , PostgreSQL
 
-<br/>
 
-<h1>Contact Me </h1>
+## <strong>BLOG<strong>
+- [대용량 리스트 렌더링 최적화하기](https://leeyeonseong.github.io/tech-blog/articles/react-virtualized/)
+- [ReactNative CodePush 도입기](https://leeyeonseong.github.io/tech-blog/articles/react-native-codepush/)
+
+## <strong>Contact Me </strong>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dustjd1535@gmail.com)
-<a href="https://leeyeonseong.github.io/tech-blog/">
-<img src="https://img.shields.io/badge/Tech Blog-black?style=flat&logo=Git&logoColor=181717"/>
-<a>
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-black?style=flat&logo=Git&logoColor=181717)](https://leeyeonseong.github.io/tech-blog/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leeys1535/)
+
  
  <br/>
