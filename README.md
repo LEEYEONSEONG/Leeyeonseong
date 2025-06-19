@@ -7,7 +7,6 @@
  ## <strong> Skills </strong>
   - Javascript, Typescript, HTML & css
   - React, NextJS, React Native, tanstack/Query, Recoil, zustand, Redux, Redux-saga, Styled-components, TailwindCss 
-  - WebRTC, WebSocket
   - Django , PostgreSQL
 
 
