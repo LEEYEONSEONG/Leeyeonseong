@@ -1,7 +1,7 @@
 ## <strong> Hi!, there 👋</strong>
 
  <strong>Hi. This is Yeonseong</strong> <br/>
- I'm Front-End Developer :D
+ I'm Front-End Developer :D !
  
  
  ## <strong> Skills </strong>
