@@ -10,7 +10,7 @@
   - Django , PostgreSQL
 
 
-## <strong>Blog<strong>
+## <strong>Tech Blog<strong>
 - [대용량 리스트 렌더링 최적화하기](https://leeyeonseong.github.io/tech-blog/articles/react-virtualized/)
 - [ReactNative CodePush 도입기](https://leeyeonseong.github.io/tech-blog/articles/react-native-codepush/)
 
