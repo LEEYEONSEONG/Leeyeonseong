@@ -7,7 +7,7 @@
  ## <strong> Skills </strong>
   - Javascript, Typescript, HTML & css
   - React, NextJS, React Native, tanstack/Query, Recoil, zustand, Redux, Styled-components, TailwindCss 
-  - Django , PostgreSQL
+  - Django , PostgreSQL , MySQL
 
 
 ## <strong>Tech Blog<strong>
