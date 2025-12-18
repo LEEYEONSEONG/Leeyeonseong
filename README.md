@@ -12,6 +12,7 @@
 ## <strong>Tech Blog<strong>
 - [대용량 리스트 렌더링 최적화하기](https://leeyeonseong.github.io/tech-blog/articles/react-virtualized/)
 - [ReactNative CodePush 도입기](https://leeyeonseong.github.io/tech-blog/articles/react-native-codepush/)
+- [Next.js 'use client'는 내부적으로 어떻게 동작할까?](https://leeyeonseong.github.io/tech-blog/articles/next-use-client/)
 
 ## <strong>Contact Me </strong>
 
